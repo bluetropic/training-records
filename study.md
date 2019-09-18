@@ -12,9 +12,15 @@
   - 添加文件：
       - git add 1.txt
       - git commit -m '添加描述'
-   - 将文件上传到GitHub库：git push -u origin master
+  - 将文件提交GitHub库：git push -u origin master
+      - 在使用git push -u origin master上提交文件时可能会出现错误error: failed to push some refs to 'https://github.com/Hicate/test1.git'
+      - 解决方法：
+          - git pull --rebase origin master  把远程README.md文件pull到本地
+          - git push -u origin master       重新提交
 ### （2）文献管理
 ### （3）论文写作
+- LaTeX工具的使用
+
 ### （4）绘图制表等基本工具
 ## 2.编程语言和平台
 ## 3.学术成果

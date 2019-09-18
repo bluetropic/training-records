@@ -17,6 +17,8 @@
       - 解决方法：
           - git pull --rebase origin master  把远程README.md文件pull到本地
           - git push -u origin master       重新提交
+    ![image](https://github.com/Hicate/training-records/blob/master/images/1.png)   
+    ![image](https://github.com/Hicate/training-records/blob/master/images/2.png)  
 ### （2）文献管理
 ### （3）论文写作
 - LaTeX工具的使用

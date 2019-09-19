@@ -22,7 +22,11 @@
 ### （2）文献管理
 ### （3）论文写作
 - LaTeX工具的使用
-
+  - 具体细节可以参考ctex宏包集
+    - 打开方式:cmd命令下输入texdoc ctex 
+  - 运行实例：
+    ![image](https://github.com/Hicate/training-records/blob/master/images/3.png) 
+    ![image](https://github.com/Hicate/training-records/blob/master/images/3.png)
 ### （4）绘图制表等基本工具
 ## 2.编程语言和平台
 ## 3.学术成果

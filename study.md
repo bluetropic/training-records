@@ -21,6 +21,7 @@
           - git push -u origin master       重新提交
     ![image](https://github.com/Hicate/training-records/blob/master/images/1.png)   
     ![image](https://github.com/Hicate/training-records/blob/master/images/2.png)  
+  - GitHub中分支的合并：https://blog.csdn.net/qq_30607843/article/details/84404000
 ### （2）文献管理工具
 主要介绍和学习JabRef和EndNote。
 - JabRef:是一个开源的参考文献管理软件,用 Java 语言编写。这个需要下载安装，学习简单入门的文献管理功能。

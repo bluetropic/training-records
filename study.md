@@ -31,7 +31,7 @@
 - 需要注意的是.bib文件和.tex文件的路径要保持一致，所下载的文章保存的路径也要跟它们保持一致，并且要把文件名改成Bibtexkey的内容
 - 生成的Bibtexkey要是英文 否则在运行bibtex.exe时会出现错误……
 - 运行实例：
-
+  ![image](https://github.com/Hicate/training-records/blob/master/images/5.png) 
 ### （3）论文写作和编辑工具
 主要介绍和学习LaTex和流行的科技论文编辑工具Texlive + TeXstudio +JabRef
 - LaTeX工具的使用
@@ -40,7 +40,7 @@
     - 打开方式:cmd命令下输入texdoc ctex 
   - 运行实例：
     ![image](https://github.com/Hicate/training-records/blob/master/images/3.png) 
-    ![image](https://github.com/Hicate/training-records/blob/master/images/3.png)
+    ![image](https://github.com/Hicate/training-records/blob/master/images/4.png)
 ### （4）绘图制表等基本工具
 主要介绍和学习Gnuplot,参考资料：[《使用 gnuplot 科学作图——Gnuplot 中文教程》](http://wap.sciencenet.cn/home.php?mod=attachment&id=16472)
 

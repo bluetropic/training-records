@@ -26,11 +26,17 @@
 主要介绍和学习JabRef和EndNote。
 - JabRef:是一个开源的参考文献管理软件,用 Java 语言编写。这个需要下载安装，学习简单入门的文献管理功能。
 - EndNote:简单了解，暂时不学。
+#### JabRef
+- 安装及简单运用参照https://mp.weixin.qq.com/s/7eb7H1R2i4Wp2rM-dEOYnw
+- 需要注意的是.bib文件和.tex文件的路径要保持一致，所下载的文章保存的路径也要跟它们保持一致，并且要把文件名改成Bibtexkey的内容
+- 生成的Bibtexkey要是英文 否则在运行bibtex.exe时会出现错误……
+- 运行实例：
 
 ### （3）论文写作和编辑工具
 主要介绍和学习LaTex和流行的科技论文编辑工具Texlive + TeXstudio +JabRef
 - LaTeX工具的使用
-  - 具体细节可以参考ctex宏包集
+- 安装及简单配置参照https://blog.csdn.net/Mikchy/article/details/94448707
+  - 具体设置细节可以参考ctex宏包集
     - 打开方式:cmd命令下输入texdoc ctex 
   - 运行实例：
     ![image](https://github.com/Hicate/training-records/blob/master/images/3.png) 
